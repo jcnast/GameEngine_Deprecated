@@ -1,5 +1,5 @@
 # GameEngine
-A basic game engine
+A basic game engine (which has been scrapped and re-started due to improved knowledge base: https://github.com/jcnast/EngineCore)
 
 This was the start of a game engine using FreeGlut and OpenGL (with the GLM math library). The main goal of this was to learn
 the in-depth details of how things go in, and primarily learn the basics of the rendering pipeline. In this regard, it succeded.
@@ -13,7 +13,7 @@ and some really basic sprite and model rendering. Although reading the images wa
 As I was starting on writing a collision system, I noticed how connected things were and that I was programming myself into a rather
 deep hole.
 
-So, given my new knowledge an experience since starting this, I have decided to restart, and build it in a much more dynamic and
+So, given my new knowledge an experience since starting this, I have decided to restart (see https://github.com/jcnast/EngineCore), and build it in a much more dynamic and
 flexible way. For more details on this, please see the new reposity - however I am leaving this here as a window into what I was going
 about learning, and to compare with the new start.
 
